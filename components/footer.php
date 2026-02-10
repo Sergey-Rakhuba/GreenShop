@@ -47,7 +47,7 @@
             </div>
 
             <div class="footer__bottom">
-                <p>&copy; <?php echo date('Y'); ?> <?php echo SITE_NAME; ?>. Всі права захищені.</p>
+                <p>&copy; <?php echo date('Y'); ?> <?php echo SITE_NAME; ?>. Всі права захищені, розробник Рахуба Сергій Леонідович rakhubasergey7@gmail.com</p>
             </div>
         </div>
     </footer>
