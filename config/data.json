@@ -1,0 +1,79 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Монстера Делікатесна",
+            "price": 450,
+            "description": "Тропічна рослина з великими листями",
+            "image": "assets\/images\/home_plants\/monstera.webp",
+            "category": "Кімнатні"
+        },
+        {
+            "id": 2,
+            "name": "Фікус Еластика",
+            "price": 350,
+            "description": "Каучукове дерево для дому",
+            "image": "assets\/images\/home_plants\/FikusAbidzhan1200.jpg",
+            "category": "Кімнатні"
+        },
+        {
+            "id": 3,
+            "name": "Сансевієрія",
+            "price": 250,
+            "description": "Невибаглива рослина \"Тещин язик\"",
+            "image": "assets\/images\/home_plants\/sanseveriya.jpg",
+            "category": "Кімнатні"
+        },
+        {
+            "id": 4,
+            "name": "Кактус Мікс",
+            "price": 150,
+            "description": "Набір мініатюрних кактусів",
+            "image": "assets\\images\\home_plants\/unnamed.jpg",
+            "category": "Кімнатні"
+        },
+        {
+            "id": 5,
+            "name": "Алое Вера",
+            "price": 200,
+            "description": "Лікувальна рослина для дому",
+            "image": "assets\\images\\home_plants\\aloewera.webp",
+            "category": "Кімнатні"
+        },
+        {
+            "id": 6,
+            "name": "Спатифілум",
+            "price": 300,
+            "description": "Рослина \"Жіноче щастя\"",
+            "image": "assets\\images\\home_plants\\spatefilum.webp",
+            "category": "Кімнатні"
+        },
+        {
+            "id": 7,
+            "name": "Кактус",
+            "price": 150,
+            "description": "",
+            "image": "assets\\images\\home_plants\\cactus.jpeg",
+            "category": "Кімнатні"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "$2y$12$C0J8Rja02xEXv6KYOUvhku\/2bfB0h1s6ypsb0PUpsQQjUqi\/XwbN6",
+            "email": "admin@greenshop.ua",
+            "role": "admin",
+            "name": "Адміністратор"
+        },
+        {
+            "id": 2,
+            "username": "user",
+            "password": "$2y$12$Ti9oBFKBPzAAJll.lqlsceV5D2mP0MNZbRvlGiAnTQGOilxmW0RUa",
+            "email": "user@example.com",
+            "role": "user",
+            "name": "Звичайний користувач"
+        }
+    ],
+    "updated": "2026-02-10 11:25:40"
+}

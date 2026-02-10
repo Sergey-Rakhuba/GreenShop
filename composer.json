@@ -1,0 +1,14 @@
+{
+    "name": "greenshop/plant-store",
+    "description": "GreenShop - Інтернет-магазин рослин",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    }
+}
