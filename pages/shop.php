@@ -8,6 +8,7 @@
             <button class="filter-btn" onclick="filterProducts('Кімнатні')">Кімнатні</button>
             <button class="filter-btn" onclick="filterProducts('Кактуси')">Кактуси</button>
             <button class="filter-btn" onclick="filterProducts('Сукуленти')">Сукуленти</button>
+            <button class="filter-btn" onclick="filterProducts('Садові рослини')">Садові рослини</button>
         </div>
 
         <!-- Сітка товарів -->
