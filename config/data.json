@@ -60,9 +60,9 @@
             "id": 8,
             "name": "Тюльпан",
             "price": 50,
-            "description": "",
+            "description": "Весняна квітка для вашого саду",
             "image": "assets\\images\\home_plants\\tulpan.webp",
-            "category": "Сад"
+            "category": "Садові рослини"
         }
     ],
     "users": [
@@ -83,5 +83,5 @@
             "name": "Звичайний користувач"
         }
     ],
-    "updated": "2026-02-10 13:32:53"
+    "updated": "2026-02-10 13:36:28"
 }

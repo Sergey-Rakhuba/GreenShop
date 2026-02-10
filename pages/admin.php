@@ -223,7 +223,7 @@ foreach ($products as $product) {
                     </label>
                     <select id="product_category" name="product_category" required>
                         <option value="Кімнатні">Кімнатні рослини</option>
-                        <option value="Сад">Садові рослини</option>
+                        <option value="Садові рослини">Садові рослини</option>
                         <option value="Кактуси">Кактуси</option>
                         <option value="Сукуленти">Сукуленти</option>
                     </select>
